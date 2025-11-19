@@ -6,3 +6,7 @@ appsettings.Development.json
 *.csproj.user
 /KSeF.DemoWebApp/public-key-dev-new.pem
 /KSeF.DemoWebApp/faktura.xml
+# TypeScript workspace artifacts
+/ts/node_modules/
+/ts/dist/
+/ts/.vitest/
